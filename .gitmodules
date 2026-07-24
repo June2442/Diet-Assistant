@@ -1,0 +1,3 @@
+[submodule "CookHero"]
+	path = CookHero
+	url = https://github.com/Decade-qiu/CookHero.git
